@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is a folder created for Coursera Asignment
+This is a folder created for Coursera Assignment
